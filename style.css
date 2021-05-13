@@ -1,0 +1,14 @@
+
+h1{
+    color: rgb(255, 110, 110);
+}
+
+*{
+border:solid;
+    }
+body{
+background-color: wheat;
+    }
+    .header{
+        background-color: peachpuff;
+    }
